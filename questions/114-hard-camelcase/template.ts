@@ -1,1 +1,1 @@
-type CamelCase<S extends string> = any
+type CamelCaseHard<S extends string> = any
